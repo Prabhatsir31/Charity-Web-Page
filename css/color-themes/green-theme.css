@@ -1,0 +1,203 @@
+/* Theme Color File */
+
+a,
+.theme_color,
+.btn-style-two:hover,
+.list-style-one li:before,
+.fact-counter .column .counter-title,
+.services-block .inner-box:hover h3 a,
+.header-top-one .top-left .links li a:hover,
+.header-top-one .social-icon li a:hover,
+.main-menu .navigation > li:hover > a,
+.main-menu .navigation > li.current > a,
+.causes-section .owl-nav .owl-prev:hover,
+.causes-section .owl-nav .owl-next:hover,
+.event-block-two .inner-box .date-box,
+.testimonial-block .inner-box .content h3,
+.social-icon-one li a:hover,
+.list-style-two li .icon,
+.news-widget .post .text a:hover,
+.header-top-two .social-icon li a:hover,
+.main-header .info-box li .icon,
+.accordion-box .block .acc-btn.active,
+.team-section-two .owl-nav .owl-prev:hover,
+.team-section-two .owl-nav .owl-next:hover,
+.accordion-box .block .acc-btn.active .icon-outer .icon,
+.social-icon-two li a:hover,
+.gallery-section .filters .filter.active,
+.gallery-section .filters .filter:hover,
+.gallery-block .inner-box .image .overlay-box .content .option-list li a:hover,
+.news-widget.style-two .post .text a:hover,
+.project-section .filters .filter-tabs .filter.active,
+.project-section .filters .filter-tabs .filter:hover,
+.causes-block .inner-box .lower-content h3 a:hover,
+.news-block .inner-box:hover .lower-content h3 a,
+.list-style-three li .icon,
+.product-list li a:hover,
+.faq-section .owl-nav .owl-prev:hover,
+.faq-section .owl-nav .owl-next:hover,
+.we-are-block .inner-box h3 a:hover,
+.we-are-block .inner-box .read-more,
+.project-section-two .owl-nav .owl-prev:hover,
+.testimonial-block-two .inner-box .content h3,
+.accordion-box.style-two .block .acc-btn .icon-plus,
+.project-section-two .owl-nav .owl-next:hover,
+.map-box .map-icon .map-detail-box ul li,
+.subscribe-section-two .subscribe-box .icon-box,
+.subscribe-section-two .subscribe-box .subscribe-email .form-group button,
+.subscribe-section-two .donate-info-box .inner-box .icon-box,
+.skills .skill-item .skill-header .skill-percentage,
+.page-title .bread-crumb li,
+.social-icon-three li a:hover,
+.categories-blog .inner-box ul li.active a,
+.categories-blog .inner-box ul li a:hover,
+.volunter-single .inner-box .content-column .designation,
+.page-title .bread-crumb li a:hover,
+.categories-blog .inner-box ul li.active a::before,
+.categories-blog .inner-box ul li a:hover::before,
+.sidebar .popular-posts .post a,
+.archive-list li a:hover,
+.eror-section .theme-btn,
+.blog-single .inner-box .text blockquote .author,
+.blog-single .inner-box .post-share-options .tags a:hover,
+.sidebar-page-container .comments-area .comment-info .comment-time,
+.list-style-four li:before,
+.causes-block-two .inner-box .content-column .inner-column h3 a:hover,
+.sidebar-newsletter-box .form-group button,
+.sidebar .popular-posts .post a:hover,
+.info-contact-section .info-column .inner .icon,
+.event-block-three .inner-box .content-column .inner-column h3 a:hover,
+.related-projects .owl-nav .owl-prev:hover, .related-projects .owl-nav .owl-next:hover,
+.event-block-four .inner-box .lower-box h3 a:hover,
+.links-widget li a:hover, .links-widget li a:hover::before,
+.header-style-three .sticky-header .main-menu .navigation > li.current > a,
+.header-style-three .sticky-header .main-menu .navigation > li > a:hover,
+.causes-block .inner-box .overlay-box .donate-percentage .amounts .total-percent{
+	color:#2ECC40;
+}
+
+/*Background Color*/
+
+.btn-style-one:hover,
+.btn-style-two,
+.btn-style-three:hover,
+.sec-title h2:before,
+.sec-title h2:after,
+.scroll-to-top:hover,
+.btn-style-four:hover,
+.footer-bottom,
+.btn-style-five:hover,
+.btn-style-seven:hover,
+.btn-style-eight:hover,
+.sidebar-title h2:before,
+.sidebar-title h2:after,
+.subscribe-section.style-two,
+.header-style-three .header-lower,
+.styled-pagination li a:hover,
+.styled-pagination li a.active,
+.btn-style-nine,
+.btn-style-nine:hover,
+.blog-single .inner-box .image .post-date,
+.comment-form .group-title h2:before,
+.comment-form .group-title h2:after,
+.main-header .language .dropdown-menu > li > a:hover,
+.news-block .inner-box .lower-content .post-date,
+.sidebar-page-container .comments-area .comment .comment-reply,
+.main-menu .navigation > li > ul > li:hover > a,
+.main-menu .navigation > li > ul > li  > ul > li > a:hover,
+.ui-state-active, .ui-widget-content .ui-state-active,
+.donate-now .select-box input[type="radio"]:checked+label{
+	background-color:#2ECC40;
+}
+
+/*Border Color*/
+
+.btn-style-one,
+.btn-style-two,
+.btn-style-two:hover,
+.btn-style-three,
+.btn-style-four:hover,
+.btn-style-five:hover,
+.btn-style-seven:hover,
+.main-menu .navigation > li > ul > li > ul,
+.main-menu .navigation > li > ul,
+.accordion-box.style-two .block .acc-btn .icon-outer,
+.main-header .main-menu .navigation > li.current a,
+.main-header .navigation > li:hover a,
+.causes-section .owl-nav .owl-prev:hover,
+.causes-section .owl-nav .owl-next:hover,
+.team-section-two .owl-nav .owl-prev:hover,
+.main-header .language .dropdown-menu,
+.map-box .map-icon .map-detail-box,
+.faq-section .owl-nav .owl-prev:hover,
+.faq-section .owl-nav .owl-next:hover,
+.project-section-two .owl-nav .owl-prev:hover,
+.project-section-two .owl-nav .owl-next:hover,
+.team-section-two .owl-nav .owl-next:hover,
+.main-header .nav-outer .search-box-outer .dropdown-menu,
+.main-header .nav-outer .search-panel input:focus,
+.main-header .nav-outer .search-panel select:focus,
+.default-form .form-group input[type="text"]:focus,
+.default-form .form-group input[type="email"]:focus,
+.default-form .form-group textarea:focus,
+.volunter-form .form-group input:focus,
+.volunter-form .form-group select:focus,
+.volunter-form .form-group textarea:focus,
+.styled-pagination li a:hover,
+.styled-pagination li a.active,
+.ui-state-active, .ui-widget-content .ui-state-active,
+.comment-form .form-group input[type="text"]:focus,
+.comment-form .form-group input[type="password"]:focus,
+.comment-form .form-group input[type="tel"]:focus,
+.comment-form .form-group input[type="email"]:focus,
+.comment-form .form-group select:focus,
+.comment-form .form-group textarea:focus,
+.related-projects .owl-nav .owl-prev:hover,
+.related-projects .owl-nav .owl-next:hover,
+.sidebar-page-container .comments-area .comment-box:hover,
+.contact-form-section input:focus,
+.contact-form-section select:focus,
+.contact-form-section textarea:focus,
+.donate-now .select-box input[type="radio"]:checked+label{
+	border-color:#2ECC40;
+}
+
+/*Box Shadow*/
+
+.services-block .inner-box:hover{
+	-webkit-box-shadow: 0px 0px 12px 0px rgba(46,204,64,1);
+	-moz-box-shadow: 0px 0px 12px 0px rgba(46,204,64,1);
+	box-shadow: 0px 0px 12px 0px rgba(46,204,64,1);
+}
+
+
+/*RGBA Color Light*/
+
+/*RGBA Color Dark*/
+
+@media only screen and (max-width: 767px){
+	
+	.main-menu .navbar-header .navbar-toggle{
+		border-color:#2ECC40;
+	}
+	
+	.main-menu .navbar-header .navbar-toggle,
+	.main-menu .navbar-collapse > .navigation,
+	.main-menu .navbar-collapse > .navigation > li > ul,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul,
+	.main-menu .navbar-collapse > .navigation > li > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li > a,
+	.main-menu .navbar-collapse > .navigation > li > a:hover,
+	.main-menu .navbar-collapse > .navigation > li > a:active,
+	.main-menu .navbar-collapse > .navigation > li > a:focus,
+	.main-menu .navbar-collapse > .navigation > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li.current > a,
+	.main-menu .navbar-collapse > .navigation > li.current-menu-item > a,
+	.header-style-two.inner-header .main-menu .navigation > li > a{
+		background-color:#2ECC40;
+	}
+	
+}
